@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "WorkSans";
+  src: url(fonts/WorkSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: "WorkSans-Bold";
+  src: url(fonts/WorkSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url(fonts/Raleway-Light.ttf);
+}
